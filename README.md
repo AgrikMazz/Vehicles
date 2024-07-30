@@ -14,13 +14,19 @@ This research aims to demonstrate that the proposed system significantly improve
 ## SCORES
 
 Weather_Prediction Resnet50 Model:
-  Weighted Average Precision: 0.88
-  F1 score: 0.86
+
+	Weighted Average Precision: 0.88
+  
+  	F1 score: 0.86
 
 Daytime_Prediction Resnet50 Model:
-  Weighted Average Precision: 0.89
-  F1 score: 0.85
+
+  	Weighted Average Precision: 0.89
+  
+  	F1 score: 0.85
 
 Vehicle detection YOLOv8x model:
-  mAP50: 0.75747
-  mAP50-95: 0.40131
+
+  	mAP50: 0.75747
+  
+  	mAP50-95: 0.40131
