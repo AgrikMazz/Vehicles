@@ -10,3 +10,17 @@ Our methodology employs a hybrid approach using two ResNet50 models for binary c
 
 ## c)Significance
 This research aims to demonstrate that the proposed system significantly improves vehicle detection accuracy under diverse environmental conditions, contributing to more efficient and reliable ITS and smart city applications.
+
+## SCORES
+
+Weather_Prediction Resnet50 Model:
+  Weighted Average Precision: 0.88
+  F1 score: 0.86
+
+Daytime_Prediction Resnet50 Model:
+  Weighted Average Precision: 0.89
+  F1 score: 0.85
+
+Vehicle detection YOLOv8x model:
+  mAP50: 0.75747
+  mAP50-95: 0.40131
